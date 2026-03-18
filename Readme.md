@@ -33,4 +33,10 @@ La información incluye:
 - Descripción
 - Número de comentarios
 
-Este conjunto de datos fue recopilado utilizando la API de YouTube.
+# Tareas
+
+- [Tarea 1](BigData_Tarea1y3.ipynb) 
+- [Tarea 2](BigData_Tarea2.ipynb) 
+- [Tarea 3](BigData_Tarea1y3.ipynb) 
+- [Código tarea 4 y 5](BigData_Tarea4y5.ipynb)
+- [Reporte de tarea 4 y 5](Reporte%20tarea%204%20y%205.pdf)
